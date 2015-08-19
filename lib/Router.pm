@@ -17,11 +17,6 @@ sub startup {
 		action     => 'welcome',
 		);
 
-	$self->routes->get('/buster')->to(
-		controller => 'top',
-		action     => 'welcome',
-		);
-
 	$self->routes->options('/')->to(
 		controller => 'top',
 		action     => 'options',
