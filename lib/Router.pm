@@ -7,6 +7,8 @@ use Mojo::Util qw(dumper);
 sub startup {
 	my $self = shift;
 
+	$self->app->secrets( ['asdlj ashlaskhfj'] );
+
 	my $config = $self->app->plugin('Config');
 	my $log    = $self->app->log;
 
