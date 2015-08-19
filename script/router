@@ -1,0 +1,12 @@
+#!/Users/brian/bin/perls/perl5.22.0
+
+use v5.22;
+
+use strict;
+use warnings;
+
+use lib 'lib';
+
+# Start command line interface for application
+require Mojolicious::Commands;
+Mojolicious::Commands->start_app('Router');

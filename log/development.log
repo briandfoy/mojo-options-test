@@ -1,0 +1,826 @@
+[Tue Aug 18 19:20:38 2015] [debug] Your secret passphrase needs to be changed
+[Tue Aug 18 19:20:52 2015] [debug] Your secret passphrase needs to be changed
+[Tue Aug 18 19:22:20 2015] [debug] Your secret passphrase needs to be changed
+[Tue Aug 18 19:23:31 2015] [debug] Your secret passphrase needs to be changed
+[Tue Aug 18 19:23:31 2015] [info] Routing modules are Router::Routes::One Router::Routes::Three Router::Routes::Two
+[Tue Aug 18 19:23:31 2015] [info] Listening at "http://*:3000"
+[Tue Aug 18 19:23:39 2015] [debug] GET "/"
+[Tue Aug 18 19:23:39 2015] [debug] Routing to controller "Router::Controller::Top" and action "welcome"
+[Tue Aug 18 19:23:39 2015] [debug] Template "top/welcome.html.ep" not found
+[Tue Aug 18 19:23:39 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Aug 18 19:23:39 2015] [debug] Template "not_found.html.ep" not found
+[Tue Aug 18 19:23:39 2015] [debug] Rendering inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Aug 18 19:23:39 2015] [debug] Rendering inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Aug 18 19:23:39 2015] [debug] 404 Not Found (0.027692s, 36.112/s)
+[Tue Aug 18 19:24:24 2015] [debug] GET "/"
+[Tue Aug 18 19:24:24 2015] [debug] Routing to controller "Router::Controller::Top" and action "welcome"
+[Tue Aug 18 19:24:24 2015] [debug] Template "top/welcome.html.ep" not found
+[Tue Aug 18 19:24:24 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Aug 18 19:24:24 2015] [debug] Template "not_found.html.ep" not found
+[Tue Aug 18 19:24:24 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Aug 18 19:24:24 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Aug 18 19:24:24 2015] [debug] 404 Not Found (0.007001s, 142.837/s)
+[Tue Aug 18 19:30:45 2015] [debug] Your secret passphrase needs to be changed
+[Tue Aug 18 19:30:45 2015] [info] Routing modules are Router::Routes::One Router::Routes::Three Router::Routes::Two
+[Tue Aug 18 19:30:45 2015] [info] Trying Router::Routes::One
+[Tue Aug 18 19:30:45 2015] [info] Trying Router::Routes::Three
+[Tue Aug 18 19:30:45 2015] [info] Trying Router::Routes::Two
+[Tue Aug 18 19:30:45 2015] [info] Listening at "http://*:3000"
+[Tue Aug 18 19:30:50 2015] [debug] GET "/"
+[Tue Aug 18 19:30:50 2015] [debug] Routing to controller "Router::Controller::Top" and action "welcome"
+[Tue Aug 18 19:30:50 2015] [debug] Template "top/welcome.html.ep" not found
+[Tue Aug 18 19:30:50 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Aug 18 19:30:50 2015] [debug] Template "not_found.html.ep" not found
+[Tue Aug 18 19:30:50 2015] [debug] Rendering inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Aug 18 19:30:50 2015] [debug] Rendering inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Aug 18 19:30:50 2015] [debug] 404 Not Found (0.029123s, 34.337/s)
+[Tue Aug 18 19:30:51 2015] [debug] GET "/"
+[Tue Aug 18 19:30:51 2015] [debug] Routing to controller "Router::Controller::Top" and action "welcome"
+[Tue Aug 18 19:30:51 2015] [debug] Template "top/welcome.html.ep" not found
+[Tue Aug 18 19:30:51 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Aug 18 19:30:51 2015] [debug] Template "not_found.html.ep" not found
+[Tue Aug 18 19:30:51 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Aug 18 19:30:51 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Aug 18 19:30:51 2015] [debug] 404 Not Found (0.008170s, 122.399/s)
+[Tue Aug 18 19:45:05 2015] [debug] Your secret passphrase needs to be changed
+[Tue Aug 18 19:45:05 2015] [info] Routing modules are Router::Routes::One Router::Routes::Three Router::Routes::Two
+[Tue Aug 18 19:45:05 2015] [info] Trying Router::Routes::One
+[Tue Aug 18 19:45:05 2015] [info] Trying Router::Routes::Three
+[Tue Aug 18 19:45:05 2015] [info] Trying Router::Routes::Two
+[Tue Aug 18 19:45:05 2015] [info] Listening at "http://*:3000"
+[Tue Aug 18 19:45:10 2015] [debug] GET "/"
+[Tue Aug 18 19:45:10 2015] [debug] Routing to controller "Router::Controller::Top" and action "welcome"
+[Tue Aug 18 19:45:10 2015] [debug] 200 OK (0.002405s, 415.800/s)
+[Tue Aug 18 19:47:08 2015] [debug] Your secret passphrase needs to be changed
+[Tue Aug 18 19:47:08 2015] [info] Routing modules are Router::Routes::One Router::Routes::Three Router::Routes::Two
+[Tue Aug 18 19:47:08 2015] [info] Trying Router::Routes::One
+[Tue Aug 18 19:47:08 2015] [info] Trying Router::Routes::Three
+[Tue Aug 18 19:47:08 2015] [info] Trying Router::Routes::Two
+[Tue Aug 18 19:47:08 2015] [info] Listening at "http://*:3000"
+[Tue Aug 18 19:48:28 2015] [debug] Your secret passphrase needs to be changed
+[Tue Aug 18 19:48:28 2015] [info] Routing modules are Router::Routes::One Router::Routes::Three Router::Routes::Two
+[Tue Aug 18 19:49:32 2015] [debug] Your secret passphrase needs to be changed
+[Tue Aug 18 19:49:32 2015] [info] Routing modules are Router::Routes::One Router::Routes::Three Router::Routes::Two
+[Tue Aug 18 19:49:32 2015] [info] {}
+
+[Tue Aug 18 19:49:32 2015] [info] Trying Router::Routes::One
+[Tue Aug 18 19:49:32 2015] [info] Trying Router::Routes::Three
+[Tue Aug 18 19:49:32 2015] [info] Trying Router::Routes::Two
+[Tue Aug 18 19:49:32 2015] [info] Listening at "http://*:3000"
+[Tue Aug 18 19:53:28 2015] [debug] Your secret passphrase needs to be changed
+[Tue Aug 18 19:53:28 2015] [info] Routing modules are Router::Routes::One Router::Routes::Three Router::Routes::Two
+[Tue Aug 18 19:53:28 2015] [info] Config: {}
+
+[Tue Aug 18 19:53:28 2015] [info] Trying Router::Routes::One
+[Tue Aug 18 19:53:28 2015] [info] Trying Router::Routes::Three
+[Tue Aug 18 19:53:28 2015] [info] Trying Router::Routes::Two
+[Tue Aug 18 19:53:28 2015] [info] Listening at "http://*:3000"
+[Tue Aug 18 19:55:41 2015] [debug] Your secret passphrase needs to be changed
+[Tue Aug 18 19:55:41 2015] [info] Routing modules are Router::Routes::One Router::Routes::Three Router::Routes::Two
+[Tue Aug 18 19:55:41 2015] [info] moniker: router
+[Tue Aug 18 19:55:41 2015] [info] Config: {}
+
+[Tue Aug 18 19:55:41 2015] [info] Trying Router::Routes::One
+[Tue Aug 18 19:55:41 2015] [info] Trying Router::Routes::Three
+[Tue Aug 18 19:55:41 2015] [info] Trying Router::Routes::Two
+[Tue Aug 18 19:55:41 2015] [info] Listening at "http://*:3000"
+[Tue Aug 18 20:01:52 2015] [debug] Your secret passphrase needs to be changed
+[Tue Aug 18 20:01:52 2015] [debug] Reading configuration file "/Users/brian/Dropbox/Deskbox/router/router.conf"
+[Tue Aug 18 20:01:52 2015] [info] Routing modules are Router::Routes::One Router::Routes::Three Router::Routes::Two
+[Tue Aug 18 20:01:52 2015] [info] moniker: router
+[Tue Aug 18 20:01:52 2015] [info] Config: {
+  "enabled_routes" => {
+    "Router::Routes::One" => 1
+  }
+}
+
+[Tue Aug 18 20:01:52 2015] [info] Trying Router::Routes::One
+[Tue Aug 18 20:01:52 2015] [info] Still trying Router::Routes::One
+[Tue Aug 18 20:01:52 2015] [info] Router::Routes::One show_one
+[Tue Aug 18 20:03:33 2015] [debug] Your secret passphrase needs to be changed
+[Tue Aug 18 20:03:33 2015] [debug] Reading configuration file "/Users/brian/Dropbox/Deskbox/router/router.conf"
+[Tue Aug 18 20:03:33 2015] [info] Routing modules are Router::Routes::One Router::Routes::Three Router::Routes::Two
+[Tue Aug 18 20:03:33 2015] [info] moniker: router
+[Tue Aug 18 20:03:33 2015] [info] Config: {
+  "enabled_routes" => {
+    "Router::Routes::One" => 1
+  }
+}
+
+[Tue Aug 18 20:03:33 2015] [info] Trying Router::Routes::One
+[Tue Aug 18 20:03:33 2015] [info] Still trying Router::Routes::One
+[Tue Aug 18 20:03:33 2015] [info] Router::Routes::One show_one
+[Tue Aug 18 20:03:33 2015] [info] 	Controller is 
+[Tue Aug 18 20:03:33 2015] [info] 	ACtion is show_one
+[Tue Aug 18 20:07:23 2015] [debug] Your secret passphrase needs to be changed
+[Tue Aug 18 20:07:23 2015] [debug] Reading configuration file "/Users/brian/Dropbox/Deskbox/router/router.conf"
+[Tue Aug 18 20:07:23 2015] [info] Routing modules are Router::Routes::One Router::Routes::Three Router::Routes::Two
+[Tue Aug 18 20:07:23 2015] [info] moniker: router
+[Tue Aug 18 20:07:23 2015] [info] Config: {
+  "enabled_routes" => {
+    "Router::Routes::One" => 1
+  }
+}
+
+[Tue Aug 18 20:07:23 2015] [info] Trying Router::Routes::One
+[Tue Aug 18 20:07:23 2015] [info] Still trying Router::Routes::One
+[Tue Aug 18 20:07:23 2015] [info] Router::Routes::One show_one
+[Tue Aug 18 20:07:23 2015] [info] 	Controller is one
+[Tue Aug 18 20:07:23 2015] [info] 	ACtion is show_one
+[Tue Aug 18 20:12:04 2015] [debug] Your secret passphrase needs to be changed
+[Tue Aug 18 20:12:04 2015] [debug] Reading configuration file "/Users/brian/Dropbox/Deskbox/router/router.conf"
+[Tue Aug 18 20:12:04 2015] [info] Routing modules are Router::Routes::One Router::Routes::Three Router::Routes::Two
+[Tue Aug 18 20:12:04 2015] [info] moniker: router
+[Tue Aug 18 20:12:04 2015] [info] Config: {
+  "enabled_routes" => {
+    "Router::Routes::One" => 1
+  }
+}
+
+[Tue Aug 18 20:12:04 2015] [info] Trying Router::Routes::One
+[Tue Aug 18 20:12:04 2015] [info] Still trying Router::Routes::One
+[Tue Aug 18 20:12:04 2015] [info] Router::Routes::One show_one
+[Tue Aug 18 20:12:04 2015] [info] 	Controller is Router::Controller::one
+[Tue Aug 18 20:12:04 2015] [info] 	ACtion is show_one
+[Tue Aug 18 20:12:37 2015] [debug] Your secret passphrase needs to be changed
+[Tue Aug 18 20:12:37 2015] [debug] Reading configuration file "/Users/brian/Dropbox/Deskbox/router/router.conf"
+[Tue Aug 18 20:12:37 2015] [info] Routing modules are Router::Routes::One Router::Routes::Three Router::Routes::Two
+[Tue Aug 18 20:12:37 2015] [info] moniker: router
+[Tue Aug 18 20:12:37 2015] [info] Config: {
+  "enabled_routes" => {
+    "Router::Routes::One" => 1
+  }
+}
+
+[Tue Aug 18 20:12:37 2015] [info] Trying Router::Routes::One
+[Tue Aug 18 20:12:37 2015] [info] Still trying Router::Routes::One
+[Tue Aug 18 20:12:37 2015] [info] Router::Routes::One show_one
+[Tue Aug 18 20:12:37 2015] [info] 	Controller is Router::Controller::One
+[Tue Aug 18 20:12:37 2015] [info] 	ACtion is show_one
+[Tue Aug 18 20:23:14 2015] [debug] Your secret passphrase needs to be changed
+[Tue Aug 18 20:23:14 2015] [debug] Reading configuration file "/Users/brian/Dropbox/Deskbox/router/router.conf"
+[Tue Aug 18 20:23:14 2015] [info] Routing modules are Router::Routes::One Router::Routes::Three Router::Routes::Two
+[Tue Aug 18 20:23:14 2015] [info] moniker: router
+[Tue Aug 18 20:23:14 2015] [info] Config: {
+  "enabled_routes" => {
+    "Router::Routes::One" => 1
+  }
+}
+
+[Tue Aug 18 20:23:14 2015] [info] Trying Router::Routes::One
+[Tue Aug 18 20:23:14 2015] [info] Still trying Router::Routes::One
+[Tue Aug 18 20:23:14 2015] [info] bless( {
+  "frames" => [],
+  "message" => "Router/Routes/One.pm did not return a true value at (eval 44) line 1.\n"
+}, 'Mojo::Exception' )
+
+[Tue Aug 18 20:23:14 2015] [info] Router::Routes::One show_one
+[Tue Aug 18 20:23:14 2015] [info] 	Controller is Router::Controller::One
+[Tue Aug 18 20:23:14 2015] [info] 	ACtion is show_one
+[Tue Aug 18 20:26:26 2015] [debug] Your secret passphrase needs to be changed
+[Tue Aug 18 20:26:26 2015] [debug] Reading configuration file "/Users/brian/Dropbox/Deskbox/router/router.conf"
+[Tue Aug 18 20:26:26 2015] [info] Routing modules are Router::Routes::One Router::Routes::Three Router::Routes::Two
+[Tue Aug 18 20:26:26 2015] [info] moniker: router
+[Tue Aug 18 20:26:26 2015] [info] Config: {
+  "enabled_routes" => {
+    "Router::Routes::One" => 1
+  }
+}
+
+[Tue Aug 18 20:26:26 2015] [info] Trying Router::Routes::One
+[Tue Aug 18 20:26:26 2015] [info] Still trying Router::Routes::One
+[Tue Aug 18 20:26:26 2015] [info] undef
+
+[Tue Aug 18 20:26:26 2015] [info] Router::Routes::One show_one
+[Tue Aug 18 20:26:26 2015] [info] 	Controller is Router::Controller::One
+[Tue Aug 18 20:26:26 2015] [info] 	ACtion is show_one
+[Tue Aug 18 20:36:11 2015] [debug] Your secret passphrase needs to be changed
+[Tue Aug 18 20:36:11 2015] [debug] Reading configuration file "/Users/brian/Dropbox/Deskbox/router/router.conf"
+[Tue Aug 18 20:36:11 2015] [info] Routing modules are Router::Routes::One Router::Routes::Three Router::Routes::Two
+[Tue Aug 18 20:36:11 2015] [info] moniker: router
+[Tue Aug 18 20:36:11 2015] [info] Config: {
+  "enabled_routes" => {
+    "Router::Routes::One" => 1
+  }
+}
+
+[Tue Aug 18 20:36:11 2015] [info] Trying Router::Routes::One
+[Tue Aug 18 20:36:11 2015] [info] Still trying Router::Routes::One
+[Tue Aug 18 20:36:11 2015] [info] Exception: undef
+
+[Tue Aug 18 20:36:11 2015] [info] Router::Routes::One show_one
+[Tue Aug 18 20:36:11 2015] [info] 	Controller is one
+[Tue Aug 18 20:36:11 2015] [info] 	Action is show_one
+[Tue Aug 18 20:37:08 2015] [debug] Your secret passphrase needs to be changed
+[Tue Aug 18 20:37:08 2015] [debug] Reading configuration file "/Users/brian/Dropbox/Deskbox/router/router.conf"
+[Tue Aug 18 20:37:08 2015] [info] Routing modules are Router::Routes::One Router::Routes::Three Router::Routes::Two
+[Tue Aug 18 20:37:08 2015] [info] moniker: router
+[Tue Aug 18 20:37:08 2015] [info] Config: {
+  "enabled_routes" => {
+    "Router::Routes::One" => 1
+  }
+}
+
+[Tue Aug 18 20:37:08 2015] [info] Trying Router::Routes::One
+[Tue Aug 18 20:37:08 2015] [info] Still trying Router::Routes::One
+[Tue Aug 18 20:37:08 2015] [info] Exception: undef
+
+[Tue Aug 18 20:37:08 2015] [info] Router::Routes::One get
+[Tue Aug 18 20:37:08 2015] [info] 	Controller is one
+[Tue Aug 18 20:37:08 2015] [info] 	Action is show_one
+[Tue Aug 18 20:37:08 2015] [info] Router::Routes::One get
+[Tue Aug 18 20:37:08 2015] [info] 	Controller is one
+[Tue Aug 18 20:37:08 2015] [info] 	Action is show_one_by_id
+[Tue Aug 18 20:37:08 2015] [info] Trying Router::Routes::Three
+[Tue Aug 18 20:37:08 2015] [info] Still trying Router::Routes::Three
+[Tue Aug 18 20:37:08 2015] [info] Exception: undef
+
+[Tue Aug 18 20:37:08 2015] [info] Router::Routes::Three get
+[Tue Aug 18 20:37:08 2015] [info] 	Controller is 
+[Tue Aug 18 20:37:08 2015] [info] 	Action is show_three
+[Tue Aug 18 20:37:08 2015] [info] Router::Routes::Three get
+[Tue Aug 18 20:37:08 2015] [info] 	Controller is 
+[Tue Aug 18 20:37:08 2015] [info] 	Action is show_three_by_id
+[Tue Aug 18 20:37:08 2015] [info] Trying Router::Routes::Two
+[Tue Aug 18 20:37:08 2015] [info] Still trying Router::Routes::Two
+[Tue Aug 18 20:37:08 2015] [info] Exception: undef
+
+[Tue Aug 18 20:37:08 2015] [info] Router::Routes::Two get
+[Tue Aug 18 20:37:08 2015] [info] 	Controller is 
+[Tue Aug 18 20:37:08 2015] [info] 	Action is show_two
+[Tue Aug 18 20:37:08 2015] [info] Router::Routes::Two get
+[Tue Aug 18 20:37:08 2015] [info] 	Controller is 
+[Tue Aug 18 20:37:08 2015] [info] 	Action is show_two_by_id
+[Tue Aug 18 20:37:08 2015] [info] Listening at "http://*:3000"
+[Tue Aug 18 20:38:11 2015] [debug] Your secret passphrase needs to be changed
+[Tue Aug 18 20:38:11 2015] [debug] Reading configuration file "/Users/brian/Dropbox/Deskbox/router/router.conf"
+[Tue Aug 18 20:38:11 2015] [info] Routing modules are Router::Routes::One Router::Routes::Three Router::Routes::Two
+[Tue Aug 18 20:38:11 2015] [info] moniker: router
+[Tue Aug 18 20:38:11 2015] [info] Config: {
+  "enabled_routes" => {
+    "Router::Routes::One" => 1
+  }
+}
+
+[Tue Aug 18 20:38:11 2015] [info] Trying Router::Routes::One
+[Tue Aug 18 20:38:11 2015] [info] Still trying Router::Routes::One
+[Tue Aug 18 20:38:11 2015] [info] Exception: undef
+
+[Tue Aug 18 20:38:11 2015] [info] Router::Routes::One get
+[Tue Aug 18 20:38:11 2015] [info] 	Controller is one
+[Tue Aug 18 20:38:11 2015] [info] 	Action is show_one
+[Tue Aug 18 20:38:11 2015] [info] Router::Routes::One get
+[Tue Aug 18 20:38:11 2015] [info] 	Controller is one
+[Tue Aug 18 20:38:11 2015] [info] 	Action is show_one_by_id
+[Tue Aug 18 20:38:11 2015] [info] Trying Router::Routes::Three
+[Tue Aug 18 20:38:11 2015] [info] Still trying Router::Routes::Three
+[Tue Aug 18 20:38:11 2015] [info] Exception: undef
+
+[Tue Aug 18 20:38:11 2015] [info] Router::Routes::Three get
+[Tue Aug 18 20:38:11 2015] [info] 	Controller is three
+[Tue Aug 18 20:38:11 2015] [info] 	Action is show_three
+[Tue Aug 18 20:38:11 2015] [info] Router::Routes::Three get
+[Tue Aug 18 20:38:11 2015] [info] 	Controller is three
+[Tue Aug 18 20:38:11 2015] [info] 	Action is show_three_by_id
+[Tue Aug 18 20:38:11 2015] [info] Trying Router::Routes::Two
+[Tue Aug 18 20:38:11 2015] [info] Still trying Router::Routes::Two
+[Tue Aug 18 20:38:11 2015] [info] Exception: undef
+
+[Tue Aug 18 20:38:11 2015] [info] Router::Routes::Two get
+[Tue Aug 18 20:38:11 2015] [info] 	Controller is two
+[Tue Aug 18 20:38:11 2015] [info] 	Action is show_two
+[Tue Aug 18 20:38:11 2015] [info] Router::Routes::Two get
+[Tue Aug 18 20:38:11 2015] [info] 	Controller is two
+[Tue Aug 18 20:38:11 2015] [info] 	Action is show_two_by_id
+[Tue Aug 18 20:38:11 2015] [info] Listening at "http://*:3000"
+[Tue Aug 18 20:38:24 2015] [debug] GET "/one"
+[Tue Aug 18 20:38:24 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Aug 18 20:38:24 2015] [debug] Template "not_found.html.ep" not found
+[Tue Aug 18 20:38:24 2015] [debug] Rendering inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Aug 18 20:38:24 2015] [debug] Rendering inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Aug 18 20:38:24 2015] [debug] 404 Not Found (0.035714s, 28.000/s)
+[Tue Aug 18 20:39:11 2015] [debug] Your secret passphrase needs to be changed
+[Tue Aug 18 20:39:11 2015] [debug] Reading configuration file "/Users/brian/Dropbox/Deskbox/router/router.conf"
+[Tue Aug 18 20:39:11 2015] [info] Routing modules are Router::Routes::One Router::Routes::Three Router::Routes::Two
+[Tue Aug 18 20:39:11 2015] [info] moniker: router
+[Tue Aug 18 20:39:11 2015] [info] Config: {
+  "enabled_routes" => {
+    "Router::Routes::One" => 1
+  }
+}
+
+[Tue Aug 18 20:39:11 2015] [info] Trying Router::Routes::One
+[Tue Aug 18 20:39:11 2015] [info] Still trying Router::Routes::One
+[Tue Aug 18 20:39:11 2015] [info] Exception: undef
+
+[Tue Aug 18 20:39:11 2015] [info] Router::Routes::One get
+[Tue Aug 18 20:39:11 2015] [info] 	Controller is one
+[Tue Aug 18 20:39:11 2015] [info] 	Action is show_one
+[Tue Aug 18 20:39:11 2015] [info] Router::Routes::One get
+[Tue Aug 18 20:39:11 2015] [info] 	Controller is one
+[Tue Aug 18 20:39:11 2015] [info] 	Action is show_one_by_id
+[Tue Aug 18 20:39:11 2015] [info] Trying Router::Routes::Three
+[Tue Aug 18 20:39:11 2015] [info] Still trying Router::Routes::Three
+[Tue Aug 18 20:39:11 2015] [info] Exception: undef
+
+[Tue Aug 18 20:39:11 2015] [info] Router::Routes::Three get
+[Tue Aug 18 20:39:11 2015] [info] 	Controller is three
+[Tue Aug 18 20:39:11 2015] [info] 	Action is show_three
+[Tue Aug 18 20:39:11 2015] [info] Router::Routes::Three get
+[Tue Aug 18 20:39:11 2015] [info] 	Controller is three
+[Tue Aug 18 20:39:11 2015] [info] 	Action is show_three_by_id
+[Tue Aug 18 20:39:11 2015] [info] Trying Router::Routes::Two
+[Tue Aug 18 20:39:11 2015] [info] Still trying Router::Routes::Two
+[Tue Aug 18 20:39:11 2015] [info] Exception: undef
+
+[Tue Aug 18 20:39:11 2015] [info] Router::Routes::Two get
+[Tue Aug 18 20:39:11 2015] [info] 	Controller is two
+[Tue Aug 18 20:39:11 2015] [info] 	Action is show_two
+[Tue Aug 18 20:39:11 2015] [info] Router::Routes::Two get
+[Tue Aug 18 20:39:11 2015] [info] 	Controller is two
+[Tue Aug 18 20:39:11 2015] [info] 	Action is show_two_by_id
+[Tue Aug 18 20:39:11 2015] [info] Listening at "http://*:3000"
+[Tue Aug 18 20:39:16 2015] [debug] GET "/one"
+[Tue Aug 18 20:39:16 2015] [debug] Routing to controller "Router::Controller::One" and action "show_one"
+[Tue Aug 18 20:39:16 2015] [debug] 200 OK (0.004504s, 222.025/s)
+[Tue Aug 18 21:41:16 2015] [debug] Your secret passphrase needs to be changed
+[Tue Aug 18 21:41:16 2015] [debug] Reading configuration file "/Users/brian/Dropbox/Deskbox/router/router.conf"
+[Tue Aug 18 21:41:16 2015] [info] Routing modules are Router::Routes::One Router::Routes::Three Router::Routes::Two
+[Tue Aug 18 21:41:16 2015] [info] Trying Router::Routes::One
+[Tue Aug 18 21:41:16 2015] [info] Still trying Router::Routes::One
+[Tue Aug 18 21:41:16 2015] [info] Exception: undef
+
+[Tue Aug 18 21:41:16 2015] [info] Router::Routes::One get
+[Tue Aug 18 21:41:16 2015] [info] 	Controller is one
+[Tue Aug 18 21:41:16 2015] [info] 	Action is show_one
+[Tue Aug 18 21:41:16 2015] [info] Router::Routes::One get
+[Tue Aug 18 21:41:16 2015] [info] 	Controller is one
+[Tue Aug 18 21:41:16 2015] [info] 	Action is show_one_by_id
+[Tue Aug 18 21:41:16 2015] [info] Trying Router::Routes::Three
+[Tue Aug 18 21:41:16 2015] [info] Still trying Router::Routes::Three
+[Tue Aug 18 21:41:16 2015] [info] Exception: undef
+
+[Tue Aug 18 21:41:16 2015] [info] Router::Routes::Three get
+[Tue Aug 18 21:41:16 2015] [info] 	Controller is three
+[Tue Aug 18 21:41:16 2015] [info] 	Action is show_three
+[Tue Aug 18 21:41:16 2015] [info] Router::Routes::Three get
+[Tue Aug 18 21:41:16 2015] [info] 	Controller is three
+[Tue Aug 18 21:41:16 2015] [info] 	Action is show_three_by_id
+[Tue Aug 18 21:41:16 2015] [info] Trying Router::Routes::Two
+[Tue Aug 18 21:41:16 2015] [info] Still trying Router::Routes::Two
+[Tue Aug 18 21:41:16 2015] [info] Exception: undef
+
+[Tue Aug 18 21:41:16 2015] [info] Router::Routes::Two get
+[Tue Aug 18 21:41:16 2015] [info] 	Controller is two
+[Tue Aug 18 21:41:16 2015] [info] 	Action is show_two
+[Tue Aug 18 21:41:16 2015] [info] Router::Routes::Two get
+[Tue Aug 18 21:41:16 2015] [info] 	Controller is two
+[Tue Aug 18 21:41:16 2015] [info] 	Action is show_two_by_id
+[Tue Aug 18 21:41:16 2015] [info] Listening at "http://*:3000"
+[Tue Aug 18 21:41:25 2015] [debug] GET "/one"
+[Tue Aug 18 21:41:25 2015] [error] Can't locate Mojolicious/Top.pm in @INC (you may need to install the Mojolicious::Top module) (@INC contains: lib /Users/brian/Dropbox/Deskbox/router/lib /usr/local/perls/perl-5.22.0/lib/site_perl/5.22.0/darwin-2level /usr/local/perls/perl-5.22.0/lib/site_perl/5.22.0 /usr/local/perls/perl-5.22.0/lib/5.22.0/darwin-2level /usr/local/perls/perl-5.22.0/lib/5.22.0 .) at /usr/local/perls/perl-5.22.0/lib/site_perl/5.22.0/Mojo/Base.pm line 77.
+BEGIN failed--compilation aborted at lib/Router/Controller/Top.pm line 2.
+Compilation failed in require at /usr/local/perls/perl-5.22.0/lib/site_perl/5.22.0/Mojo/Base.pm line 77.
+BEGIN failed--compilation aborted at lib/Router/Controller/One.pm line 2.
+Compilation failed in require at (eval 48) line 1.
+
+[Tue Aug 18 21:41:25 2015] [debug] Template "exception.development.html.ep" not found
+[Tue Aug 18 21:41:25 2015] [debug] Template "exception.html.ep" not found
+[Tue Aug 18 21:41:25 2015] [debug] Rendering inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Aug 18 21:41:25 2015] [debug] Rendering inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Aug 18 21:41:25 2015] [debug] 500 Internal Server Error (0.032599s, 30.676/s)
+[Tue Aug 18 21:41:56 2015] [debug] Your secret passphrase needs to be changed
+[Tue Aug 18 21:41:56 2015] [debug] Reading configuration file "/Users/brian/Dropbox/Deskbox/router/router.conf"
+[Tue Aug 18 21:41:56 2015] [info] Routing modules are Router::Routes::One Router::Routes::Three Router::Routes::Two
+[Tue Aug 18 21:41:56 2015] [info] Trying Router::Routes::One
+[Tue Aug 18 21:41:56 2015] [info] Still trying Router::Routes::One
+[Tue Aug 18 21:41:56 2015] [info] Exception: undef
+
+[Tue Aug 18 21:41:56 2015] [info] Router::Routes::One get
+[Tue Aug 18 21:41:56 2015] [info] 	Controller is one
+[Tue Aug 18 21:41:56 2015] [info] 	Action is show_one
+[Tue Aug 18 21:41:56 2015] [info] Router::Routes::One get
+[Tue Aug 18 21:41:56 2015] [info] 	Controller is one
+[Tue Aug 18 21:41:56 2015] [info] 	Action is show_one_by_id
+[Tue Aug 18 21:41:56 2015] [info] Trying Router::Routes::Three
+[Tue Aug 18 21:41:56 2015] [info] Still trying Router::Routes::Three
+[Tue Aug 18 21:41:56 2015] [info] Exception: undef
+
+[Tue Aug 18 21:41:56 2015] [info] Router::Routes::Three get
+[Tue Aug 18 21:41:56 2015] [info] 	Controller is three
+[Tue Aug 18 21:41:56 2015] [info] 	Action is show_three
+[Tue Aug 18 21:41:56 2015] [info] Router::Routes::Three get
+[Tue Aug 18 21:41:56 2015] [info] 	Controller is three
+[Tue Aug 18 21:41:56 2015] [info] 	Action is show_three_by_id
+[Tue Aug 18 21:41:56 2015] [info] Trying Router::Routes::Two
+[Tue Aug 18 21:41:56 2015] [info] Still trying Router::Routes::Two
+[Tue Aug 18 21:41:56 2015] [info] Exception: undef
+
+[Tue Aug 18 21:41:56 2015] [info] Router::Routes::Two get
+[Tue Aug 18 21:41:56 2015] [info] 	Controller is two
+[Tue Aug 18 21:41:56 2015] [info] 	Action is show_two
+[Tue Aug 18 21:41:56 2015] [info] Router::Routes::Two get
+[Tue Aug 18 21:41:56 2015] [info] 	Controller is two
+[Tue Aug 18 21:41:56 2015] [info] 	Action is show_two_by_id
+[Tue Aug 18 21:41:56 2015] [info] Listening at "http://*:3000"
+[Tue Aug 18 21:41:58 2015] [debug] GET "/one"
+[Tue Aug 18 21:41:58 2015] [error] syntax error at lib/Router/Controller/Top.pm line 33, near "}"
+syntax error at lib/Router/Controller/Top.pm line 34, near "}"
+Compilation failed in require at /usr/local/perls/perl-5.22.0/lib/site_perl/5.22.0/Mojo/Base.pm line 77.
+BEGIN failed--compilation aborted at lib/Router/Controller/One.pm line 2.
+Compilation failed in require at (eval 48) line 1.
+
+[Tue Aug 18 21:41:58 2015] [debug] Template "exception.development.html.ep" not found
+[Tue Aug 18 21:41:58 2015] [debug] Template "exception.html.ep" not found
+[Tue Aug 18 21:41:58 2015] [debug] Rendering inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Aug 18 21:41:58 2015] [debug] Rendering inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Aug 18 21:41:58 2015] [debug] 500 Internal Server Error (0.036219s, 27.610/s)
+[Tue Aug 18 21:42:22 2015] [debug] Your secret passphrase needs to be changed
+[Tue Aug 18 21:42:22 2015] [debug] Reading configuration file "/Users/brian/Dropbox/Deskbox/router/router.conf"
+[Tue Aug 18 21:42:22 2015] [info] Routing modules are Router::Routes::One Router::Routes::Three Router::Routes::Two
+[Tue Aug 18 21:42:22 2015] [info] Trying Router::Routes::One
+[Tue Aug 18 21:42:22 2015] [info] Still trying Router::Routes::One
+[Tue Aug 18 21:42:22 2015] [info] Exception: undef
+
+[Tue Aug 18 21:42:22 2015] [info] Router::Routes::One get
+[Tue Aug 18 21:42:22 2015] [info] 	Controller is one
+[Tue Aug 18 21:42:22 2015] [info] 	Action is show_one
+[Tue Aug 18 21:42:22 2015] [info] Router::Routes::One get
+[Tue Aug 18 21:42:22 2015] [info] 	Controller is one
+[Tue Aug 18 21:42:22 2015] [info] 	Action is show_one_by_id
+[Tue Aug 18 21:42:22 2015] [info] Trying Router::Routes::Three
+[Tue Aug 18 21:42:22 2015] [info] Still trying Router::Routes::Three
+[Tue Aug 18 21:42:22 2015] [info] Exception: undef
+
+[Tue Aug 18 21:42:22 2015] [info] Router::Routes::Three get
+[Tue Aug 18 21:42:22 2015] [info] 	Controller is three
+[Tue Aug 18 21:42:22 2015] [info] 	Action is show_three
+[Tue Aug 18 21:42:22 2015] [info] Router::Routes::Three get
+[Tue Aug 18 21:42:22 2015] [info] 	Controller is three
+[Tue Aug 18 21:42:22 2015] [info] 	Action is show_three_by_id
+[Tue Aug 18 21:42:22 2015] [info] Trying Router::Routes::Two
+[Tue Aug 18 21:42:22 2015] [info] Still trying Router::Routes::Two
+[Tue Aug 18 21:42:22 2015] [info] Exception: undef
+
+[Tue Aug 18 21:42:22 2015] [info] Router::Routes::Two get
+[Tue Aug 18 21:42:22 2015] [info] 	Controller is two
+[Tue Aug 18 21:42:22 2015] [info] 	Action is show_two
+[Tue Aug 18 21:42:22 2015] [info] Router::Routes::Two get
+[Tue Aug 18 21:42:22 2015] [info] 	Controller is two
+[Tue Aug 18 21:42:22 2015] [info] 	Action is show_two_by_id
+[Tue Aug 18 21:42:22 2015] [info] Listening at "http://*:3000"
+[Tue Aug 18 21:42:24 2015] [debug] GET "/one"
+[Tue Aug 18 21:42:24 2015] [debug] Routing to controller "Router::Controller::One" and action "show_one"
+[Tue Aug 18 21:42:24 2015] [debug] 200 OK (0.002922s, 342.231/s)
+[Tue Aug 18 21:43:34 2015] [debug] GET "/one"
+[Tue Aug 18 21:43:34 2015] [debug] Routing to controller "Router::Controller::One" and action "show_one"
+[Tue Aug 18 21:43:34 2015] [debug] 200 OK (0.000690s, 1449.275/s)
+[Tue Aug 18 21:43:36 2015] [debug] GET "/one"
+[Tue Aug 18 21:43:36 2015] [debug] Routing to controller "Router::Controller::One" and action "show_one"
+[Tue Aug 18 21:43:36 2015] [debug] 200 OK (0.000552s, 1811.594/s)
+[Tue Aug 18 21:43:37 2015] [debug] GET "/one"
+[Tue Aug 18 21:43:37 2015] [debug] Routing to controller "Router::Controller::One" and action "show_one"
+[Tue Aug 18 21:43:37 2015] [debug] 200 OK (0.000541s, 1848.429/s)
+[Tue Aug 18 21:43:38 2015] [debug] GET "/one"
+[Tue Aug 18 21:43:38 2015] [debug] Routing to controller "Router::Controller::One" and action "show_one"
+[Tue Aug 18 21:43:38 2015] [debug] 200 OK (0.000500s, 2000.000/s)
+[Tue Aug 18 21:43:39 2015] [debug] GET "/one"
+[Tue Aug 18 21:43:39 2015] [debug] Routing to controller "Router::Controller::One" and action "show_one"
+[Tue Aug 18 21:43:39 2015] [debug] 200 OK (0.000535s, 1869.159/s)
+[Tue Aug 18 21:43:40 2015] [debug] GET "/one"
+[Tue Aug 18 21:43:40 2015] [debug] Routing to controller "Router::Controller::One" and action "show_one"
+[Tue Aug 18 21:43:40 2015] [debug] 200 OK (0.000633s, 1579.779/s)
+[Tue Aug 18 21:43:41 2015] [debug] GET "/one"
+[Tue Aug 18 21:43:41 2015] [debug] Routing to controller "Router::Controller::One" and action "show_one"
+[Tue Aug 18 21:43:41 2015] [debug] 200 OK (0.000546s, 1831.502/s)
+[Tue Aug 18 21:43:42 2015] [debug] GET "/one"
+[Tue Aug 18 21:43:42 2015] [debug] Routing to controller "Router::Controller::One" and action "show_one"
+[Tue Aug 18 21:43:42 2015] [debug] 200 OK (0.000585s, 1709.402/s)
+[Tue Aug 18 21:43:45 2015] [debug] Your secret passphrase needs to be changed
+[Tue Aug 18 21:43:45 2015] [debug] Reading configuration file "/Users/brian/Dropbox/Deskbox/router/router.conf"
+[Tue Aug 18 21:43:45 2015] [info] Routing modules are Router::Routes::One Router::Routes::Three Router::Routes::Two
+[Tue Aug 18 21:43:45 2015] [info] Trying Router::Routes::One
+[Tue Aug 18 21:43:45 2015] [info] Still trying Router::Routes::One
+[Tue Aug 18 21:43:45 2015] [info] Exception: undef
+
+[Tue Aug 18 21:43:45 2015] [info] Router::Routes::One get
+[Tue Aug 18 21:43:45 2015] [info] 	Controller is one
+[Tue Aug 18 21:43:45 2015] [info] 	Action is show_one
+[Tue Aug 18 21:43:45 2015] [info] Router::Routes::One get
+[Tue Aug 18 21:43:45 2015] [info] 	Controller is one
+[Tue Aug 18 21:43:45 2015] [info] 	Action is show_one_by_id
+[Tue Aug 18 21:43:45 2015] [info] Trying Router::Routes::Three
+[Tue Aug 18 21:43:45 2015] [info] Still trying Router::Routes::Three
+[Tue Aug 18 21:43:45 2015] [info] Exception: undef
+
+[Tue Aug 18 21:43:45 2015] [info] Router::Routes::Three get
+[Tue Aug 18 21:43:45 2015] [info] 	Controller is three
+[Tue Aug 18 21:43:45 2015] [info] 	Action is show_three
+[Tue Aug 18 21:43:45 2015] [info] Router::Routes::Three get
+[Tue Aug 18 21:43:45 2015] [info] 	Controller is three
+[Tue Aug 18 21:43:45 2015] [info] 	Action is show_three_by_id
+[Tue Aug 18 21:43:45 2015] [info] Trying Router::Routes::Two
+[Tue Aug 18 21:43:45 2015] [info] Still trying Router::Routes::Two
+[Tue Aug 18 21:43:45 2015] [info] Exception: undef
+
+[Tue Aug 18 21:43:45 2015] [info] Router::Routes::Two get
+[Tue Aug 18 21:43:45 2015] [info] 	Controller is two
+[Tue Aug 18 21:43:45 2015] [info] 	Action is show_two
+[Tue Aug 18 21:43:45 2015] [info] Router::Routes::Two get
+[Tue Aug 18 21:43:45 2015] [info] 	Controller is two
+[Tue Aug 18 21:43:45 2015] [info] 	Action is show_two_by_id
+[Tue Aug 18 21:43:45 2015] [info] Listening at "http://*:3000"
+[Tue Aug 18 21:43:47 2015] [debug] GET "/one"
+[Tue Aug 18 21:43:47 2015] [debug] Routing to controller "Router::Controller::One" and action "show_one"
+[Tue Aug 18 21:43:47 2015] [debug] 200 OK (0.002211s, 452.284/s)
+[Tue Aug 18 21:47:13 2015] [debug] OPTIONS "/"
+[Tue Aug 18 21:47:13 2015] [debug] Routing to controller "Router::Controller::Top" and action "options"
+[Tue Aug 18 21:47:13 2015] [debug] 200 OK (0.001437s, 695.894/s)
+[Tue Aug 18 21:57:14 2015] [debug] Your secret passphrase needs to be changed
+[Tue Aug 18 21:57:14 2015] [debug] Reading configuration file "/Users/brian/Dropbox/Deskbox/router/router.conf"
+[Tue Aug 18 21:57:14 2015] [info] Routing modules are Router::Routes::One Router::Routes::Three Router::Routes::Two
+[Tue Aug 18 21:57:14 2015] [info] Trying Router::Routes::One
+[Tue Aug 18 21:57:14 2015] [info] Still trying Router::Routes::One
+[Tue Aug 18 21:57:14 2015] [info] Exception: undef
+
+[Tue Aug 18 21:57:14 2015] [info] Router::Routes::One get
+[Tue Aug 18 21:57:14 2015] [info] 	Controller is one
+[Tue Aug 18 21:57:14 2015] [info] 	Action is show_one
+[Tue Aug 18 21:57:14 2015] [info] Router::Routes::One get
+[Tue Aug 18 21:57:14 2015] [info] 	Controller is one
+[Tue Aug 18 21:57:14 2015] [info] 	Action is show_one_by_id
+[Tue Aug 18 21:57:14 2015] [info] Trying Router::Routes::Three
+[Tue Aug 18 21:57:14 2015] [info] Still trying Router::Routes::Three
+[Tue Aug 18 21:57:14 2015] [info] Exception: undef
+
+[Tue Aug 18 21:57:14 2015] [info] Router::Routes::Three get
+[Tue Aug 18 21:57:14 2015] [info] 	Controller is three
+[Tue Aug 18 21:57:14 2015] [info] 	Action is show_three
+[Tue Aug 18 21:57:14 2015] [info] Router::Routes::Three get
+[Tue Aug 18 21:57:14 2015] [info] 	Controller is three
+[Tue Aug 18 21:57:14 2015] [info] 	Action is show_three_by_id
+[Tue Aug 18 21:57:14 2015] [info] Trying Router::Routes::Two
+[Tue Aug 18 21:57:14 2015] [info] Still trying Router::Routes::Two
+[Tue Aug 18 21:57:14 2015] [info] Exception: undef
+
+[Tue Aug 18 21:57:14 2015] [info] Router::Routes::Two get
+[Tue Aug 18 21:57:14 2015] [info] 	Controller is two
+[Tue Aug 18 21:57:14 2015] [info] 	Action is show_two
+[Tue Aug 18 21:57:14 2015] [info] Router::Routes::Two get
+[Tue Aug 18 21:57:14 2015] [info] 	Controller is two
+[Tue Aug 18 21:57:14 2015] [info] 	Action is show_two_by_id
+[Tue Aug 18 21:57:14 2015] [info] Listening at "http://*:3000"
+[Tue Aug 18 21:57:23 2015] [debug] OPTIONS "/"
+[Tue Aug 18 21:57:23 2015] [debug] Routing to controller "Router::Controller::Top" and action "options"
+[Tue Aug 18 21:57:23 2015] [debug] 200 OK (0.002624s, 381.098/s)
+[Tue Aug 18 21:57:42 2015] [debug] Your secret passphrase needs to be changed
+[Tue Aug 18 21:57:42 2015] [debug] Reading configuration file "/Users/brian/Dropbox/Deskbox/router/router.conf"
+[Tue Aug 18 21:57:42 2015] [info] Routing modules are Router::Routes::One Router::Routes::Three Router::Routes::Two
+[Tue Aug 18 21:57:42 2015] [info] Trying Router::Routes::One
+[Tue Aug 18 21:57:42 2015] [info] Still trying Router::Routes::One
+[Tue Aug 18 21:57:42 2015] [info] Exception: undef
+
+[Tue Aug 18 21:57:42 2015] [info] Router::Routes::One get
+[Tue Aug 18 21:57:42 2015] [info] 	Controller is one
+[Tue Aug 18 21:57:42 2015] [info] 	Action is show_one
+[Tue Aug 18 21:57:42 2015] [info] Router::Routes::One get
+[Tue Aug 18 21:57:42 2015] [info] 	Controller is one
+[Tue Aug 18 21:57:42 2015] [info] 	Action is show_one_by_id
+[Tue Aug 18 21:57:42 2015] [info] Trying Router::Routes::Three
+[Tue Aug 18 21:57:42 2015] [info] Still trying Router::Routes::Three
+[Tue Aug 18 21:57:42 2015] [info] Exception: undef
+
+[Tue Aug 18 21:57:42 2015] [info] Router::Routes::Three get
+[Tue Aug 18 21:57:42 2015] [info] 	Controller is three
+[Tue Aug 18 21:57:42 2015] [info] 	Action is show_three
+[Tue Aug 18 21:57:42 2015] [info] Router::Routes::Three get
+[Tue Aug 18 21:57:42 2015] [info] 	Controller is three
+[Tue Aug 18 21:57:42 2015] [info] 	Action is show_three_by_id
+[Tue Aug 18 21:57:42 2015] [info] Trying Router::Routes::Two
+[Tue Aug 18 21:57:42 2015] [info] Still trying Router::Routes::Two
+[Tue Aug 18 21:57:42 2015] [info] Exception: undef
+
+[Tue Aug 18 21:57:42 2015] [info] Router::Routes::Two get
+[Tue Aug 18 21:57:42 2015] [info] 	Controller is two
+[Tue Aug 18 21:57:42 2015] [info] 	Action is show_two
+[Tue Aug 18 21:57:42 2015] [info] Router::Routes::Two get
+[Tue Aug 18 21:57:42 2015] [info] 	Controller is two
+[Tue Aug 18 21:57:42 2015] [info] 	Action is show_two_by_id
+[Tue Aug 18 21:57:42 2015] [info] Listening at "http://*:3000"
+[Tue Aug 18 21:57:48 2015] [debug] OPTIONS "/"
+[Tue Aug 18 21:57:48 2015] [debug] Routing to controller "Router::Controller::Top" and action "options"
+[Tue Aug 18 21:57:48 2015] [debug] 200 OK (0.002711s, 368.868/s)
+[Tue Aug 18 21:58:39 2015] [debug] Your secret passphrase needs to be changed
+[Tue Aug 18 21:58:39 2015] [debug] Reading configuration file "/Users/brian/Dropbox/Deskbox/router/router.conf"
+[Tue Aug 18 21:58:39 2015] [info] Routing modules are Router::Routes::One Router::Routes::Three Router::Routes::Two
+[Tue Aug 18 21:58:39 2015] [info] Trying Router::Routes::One
+[Tue Aug 18 21:58:39 2015] [info] Still trying Router::Routes::One
+[Tue Aug 18 21:58:39 2015] [info] Exception: undef
+
+[Tue Aug 18 21:58:39 2015] [info] Router::Routes::One get
+[Tue Aug 18 21:58:39 2015] [info] 	Controller is one
+[Tue Aug 18 21:58:39 2015] [info] 	Action is show_one
+[Tue Aug 18 21:58:39 2015] [info] Router::Routes::One get
+[Tue Aug 18 21:58:39 2015] [info] 	Controller is one
+[Tue Aug 18 21:58:39 2015] [info] 	Action is show_one_by_id
+[Tue Aug 18 21:58:39 2015] [info] Trying Router::Routes::Three
+[Tue Aug 18 21:58:39 2015] [info] Still trying Router::Routes::Three
+[Tue Aug 18 21:58:39 2015] [info] Exception: undef
+
+[Tue Aug 18 21:58:39 2015] [info] Router::Routes::Three get
+[Tue Aug 18 21:58:39 2015] [info] 	Controller is three
+[Tue Aug 18 21:58:39 2015] [info] 	Action is show_three
+[Tue Aug 18 21:58:39 2015] [info] Router::Routes::Three get
+[Tue Aug 18 21:58:39 2015] [info] 	Controller is three
+[Tue Aug 18 21:58:39 2015] [info] 	Action is show_three_by_id
+[Tue Aug 18 21:58:39 2015] [info] Trying Router::Routes::Two
+[Tue Aug 18 21:58:39 2015] [info] Still trying Router::Routes::Two
+[Tue Aug 18 21:58:39 2015] [info] Exception: undef
+
+[Tue Aug 18 21:58:39 2015] [info] Router::Routes::Two get
+[Tue Aug 18 21:58:39 2015] [info] 	Controller is two
+[Tue Aug 18 21:58:39 2015] [info] 	Action is show_two
+[Tue Aug 18 21:58:39 2015] [info] Router::Routes::Two get
+[Tue Aug 18 21:58:39 2015] [info] 	Controller is two
+[Tue Aug 18 21:58:39 2015] [info] 	Action is show_two_by_id
+[Tue Aug 18 21:58:40 2015] [debug] Your secret passphrase needs to be changed
+[Tue Aug 18 21:58:40 2015] [debug] Reading configuration file "/Users/brian/Dropbox/Deskbox/router/router.conf"
+[Tue Aug 18 21:58:40 2015] [info] Routing modules are Router::Routes::One Router::Routes::Three Router::Routes::Two
+[Tue Aug 18 21:58:40 2015] [info] Trying Router::Routes::One
+[Tue Aug 18 21:58:40 2015] [info] Still trying Router::Routes::One
+[Tue Aug 18 21:58:40 2015] [info] Exception: undef
+
+[Tue Aug 18 21:58:40 2015] [info] Router::Routes::One get
+[Tue Aug 18 21:58:40 2015] [info] 	Controller is one
+[Tue Aug 18 21:58:40 2015] [info] 	Action is show_one
+[Tue Aug 18 21:58:40 2015] [info] Router::Routes::One get
+[Tue Aug 18 21:58:40 2015] [info] 	Controller is one
+[Tue Aug 18 21:58:40 2015] [info] 	Action is show_one_by_id
+[Tue Aug 18 21:58:40 2015] [info] Trying Router::Routes::Three
+[Tue Aug 18 21:58:40 2015] [info] Still trying Router::Routes::Three
+[Tue Aug 18 21:58:40 2015] [info] Exception: undef
+
+[Tue Aug 18 21:58:40 2015] [info] Router::Routes::Three get
+[Tue Aug 18 21:58:40 2015] [info] 	Controller is three
+[Tue Aug 18 21:58:40 2015] [info] 	Action is show_three
+[Tue Aug 18 21:58:40 2015] [info] Router::Routes::Three get
+[Tue Aug 18 21:58:40 2015] [info] 	Controller is three
+[Tue Aug 18 21:58:40 2015] [info] 	Action is show_three_by_id
+[Tue Aug 18 21:58:40 2015] [info] Trying Router::Routes::Two
+[Tue Aug 18 21:58:40 2015] [info] Still trying Router::Routes::Two
+[Tue Aug 18 21:58:40 2015] [info] Exception: undef
+
+[Tue Aug 18 21:58:40 2015] [info] Router::Routes::Two get
+[Tue Aug 18 21:58:40 2015] [info] 	Controller is two
+[Tue Aug 18 21:58:40 2015] [info] 	Action is show_two
+[Tue Aug 18 21:58:40 2015] [info] Router::Routes::Two get
+[Tue Aug 18 21:58:40 2015] [info] 	Controller is two
+[Tue Aug 18 21:58:40 2015] [info] 	Action is show_two_by_id
+[Tue Aug 18 22:01:50 2015] [debug] Your secret passphrase needs to be changed
+[Tue Aug 18 22:01:50 2015] [debug] Reading configuration file "/Users/brian/Dropbox/Deskbox/router/router.conf"
+[Tue Aug 18 22:01:50 2015] [info] Routing modules are Router::Routes::One Router::Routes::Three Router::Routes::Two
+[Tue Aug 18 22:01:50 2015] [info] Trying Router::Routes::One
+[Tue Aug 18 22:01:50 2015] [info] Still trying Router::Routes::One
+[Tue Aug 18 22:01:50 2015] [info] Exception: undef
+
+[Tue Aug 18 22:01:50 2015] [info] Router::Routes::One get
+[Tue Aug 18 22:01:50 2015] [info] 	Controller is one
+[Tue Aug 18 22:01:50 2015] [info] 	Action is show_one
+[Tue Aug 18 22:01:50 2015] [info] Router::Routes::One get
+[Tue Aug 18 22:01:50 2015] [info] 	Controller is one
+[Tue Aug 18 22:01:50 2015] [info] 	Action is show_one_by_id
+[Tue Aug 18 22:01:50 2015] [info] Trying Router::Routes::Three
+[Tue Aug 18 22:01:50 2015] [info] Still trying Router::Routes::Three
+[Tue Aug 18 22:01:50 2015] [info] Exception: undef
+
+[Tue Aug 18 22:01:50 2015] [info] Router::Routes::Three get
+[Tue Aug 18 22:01:50 2015] [info] 	Controller is three
+[Tue Aug 18 22:01:50 2015] [info] 	Action is show_three
+[Tue Aug 18 22:01:50 2015] [info] Router::Routes::Three get
+[Tue Aug 18 22:01:50 2015] [info] 	Controller is three
+[Tue Aug 18 22:01:50 2015] [info] 	Action is show_three_by_id
+[Tue Aug 18 22:01:50 2015] [info] Trying Router::Routes::Two
+[Tue Aug 18 22:01:50 2015] [info] Still trying Router::Routes::Two
+[Tue Aug 18 22:01:50 2015] [info] Exception: undef
+
+[Tue Aug 18 22:01:50 2015] [info] Router::Routes::Two get
+[Tue Aug 18 22:01:50 2015] [info] 	Controller is two
+[Tue Aug 18 22:01:50 2015] [info] 	Action is show_two
+[Tue Aug 18 22:01:50 2015] [info] Router::Routes::Two get
+[Tue Aug 18 22:01:50 2015] [info] 	Controller is two
+[Tue Aug 18 22:01:50 2015] [info] 	Action is show_two_by_id
+[Tue Aug 18 22:01:50 2015] [info] Listening at "http://*:3000"
+[Tue Aug 18 22:02:02 2015] [debug] OPTIONS "/"
+[Tue Aug 18 22:02:02 2015] [debug] Routing to controller "Router::Controller::Top" and action "options"
+[Tue Aug 18 22:02:02 2015] [debug] 200 OK (0.002632s, 379.939/s)
+[Tue Aug 18 22:02:29 2015] [debug] Your secret passphrase needs to be changed
+[Tue Aug 18 22:02:29 2015] [debug] Reading configuration file "/Users/brian/Dropbox/Deskbox/router/router.conf"
+[Tue Aug 18 22:02:29 2015] [info] Routing modules are Router::Routes::One Router::Routes::Three Router::Routes::Two
+[Tue Aug 18 22:02:29 2015] [info] Trying Router::Routes::One
+[Tue Aug 18 22:02:29 2015] [info] Still trying Router::Routes::One
+[Tue Aug 18 22:02:29 2015] [info] Exception: undef
+
+[Tue Aug 18 22:02:29 2015] [info] Router::Routes::One get
+[Tue Aug 18 22:02:29 2015] [info] 	Controller is one
+[Tue Aug 18 22:02:29 2015] [info] 	Action is show_one
+[Tue Aug 18 22:02:29 2015] [info] Router::Routes::One get
+[Tue Aug 18 22:02:29 2015] [info] 	Controller is one
+[Tue Aug 18 22:02:29 2015] [info] 	Action is show_one_by_id
+[Tue Aug 18 22:02:29 2015] [info] Trying Router::Routes::Three
+[Tue Aug 18 22:02:29 2015] [info] Still trying Router::Routes::Three
+[Tue Aug 18 22:02:29 2015] [info] Exception: undef
+
+[Tue Aug 18 22:02:29 2015] [info] Router::Routes::Three get
+[Tue Aug 18 22:02:29 2015] [info] 	Controller is three
+[Tue Aug 18 22:02:29 2015] [info] 	Action is show_three
+[Tue Aug 18 22:02:29 2015] [info] Router::Routes::Three get
+[Tue Aug 18 22:02:29 2015] [info] 	Controller is three
+[Tue Aug 18 22:02:29 2015] [info] 	Action is show_three_by_id
+[Tue Aug 18 22:02:29 2015] [info] Trying Router::Routes::Two
+[Tue Aug 18 22:02:29 2015] [info] Still trying Router::Routes::Two
+[Tue Aug 18 22:02:29 2015] [info] Exception: undef
+
+[Tue Aug 18 22:02:29 2015] [info] Router::Routes::Two get
+[Tue Aug 18 22:02:29 2015] [info] 	Controller is two
+[Tue Aug 18 22:02:29 2015] [info] 	Action is show_two
+[Tue Aug 18 22:02:29 2015] [info] Router::Routes::Two get
+[Tue Aug 18 22:02:29 2015] [info] 	Controller is two
+[Tue Aug 18 22:02:29 2015] [info] 	Action is show_two_by_id
+[Tue Aug 18 22:02:29 2015] [info] Listening at "http://*:3000"
+[Tue Aug 18 22:03:34 2015] [debug] Your secret passphrase needs to be changed
+[Tue Aug 18 22:03:34 2015] [debug] Reading configuration file "/Users/brian/Dropbox/Deskbox/router/router.conf"
+[Tue Aug 18 22:03:34 2015] [info] Routing modules are Router::Routes::One Router::Routes::Three Router::Routes::Two
+[Tue Aug 18 22:03:34 2015] [info] Trying Router::Routes::One
+[Tue Aug 18 22:03:34 2015] [info] Still trying Router::Routes::One
+[Tue Aug 18 22:03:34 2015] [info] Exception: undef
+
+[Tue Aug 18 22:03:34 2015] [info] Router::Routes::One get
+[Tue Aug 18 22:03:34 2015] [info] 	Controller is one
+[Tue Aug 18 22:03:34 2015] [info] 	Action is show_one
+[Tue Aug 18 22:03:34 2015] [info] Router::Routes::One get
+[Tue Aug 18 22:03:34 2015] [info] 	Controller is one
+[Tue Aug 18 22:03:34 2015] [info] 	Action is show_one_by_id
+[Tue Aug 18 22:03:34 2015] [info] Trying Router::Routes::Three
+[Tue Aug 18 22:03:34 2015] [info] Still trying Router::Routes::Three
+[Tue Aug 18 22:03:34 2015] [info] Exception: undef
+
+[Tue Aug 18 22:03:34 2015] [info] Router::Routes::Three get
+[Tue Aug 18 22:03:34 2015] [info] 	Controller is three
+[Tue Aug 18 22:03:34 2015] [info] 	Action is show_three
+[Tue Aug 18 22:03:34 2015] [info] Router::Routes::Three get
+[Tue Aug 18 22:03:34 2015] [info] 	Controller is three
+[Tue Aug 18 22:03:34 2015] [info] 	Action is show_three_by_id
+[Tue Aug 18 22:03:34 2015] [info] Trying Router::Routes::Two
+[Tue Aug 18 22:03:34 2015] [info] Still trying Router::Routes::Two
+[Tue Aug 18 22:03:34 2015] [info] Exception: undef
+
+[Tue Aug 18 22:03:34 2015] [info] Router::Routes::Two get
+[Tue Aug 18 22:03:34 2015] [info] 	Controller is two
+[Tue Aug 18 22:03:34 2015] [info] 	Action is show_two
+[Tue Aug 18 22:03:34 2015] [info] Router::Routes::Two get
+[Tue Aug 18 22:03:34 2015] [info] 	Controller is two
+[Tue Aug 18 22:03:34 2015] [info] 	Action is show_two_by_id
+[Tue Aug 18 22:03:34 2015] [info] Listening at "http://*:3000"
+[Tue Aug 18 22:03:48 2015] [debug] OPTIONS "/"
+[Tue Aug 18 22:03:48 2015] [debug] Routing to controller "Router::Controller::Top" and action "options"
+[Tue Aug 18 22:03:48 2015] [debug] 200 OK (0.002754s, 363.108/s)
+[Tue Aug 18 22:07:36 2015] [debug] Your secret passphrase needs to be changed
+[Tue Aug 18 22:07:36 2015] [debug] Reading configuration file "/Users/brian/Dropbox/Deskbox/router/router.conf"
+[Tue Aug 18 22:07:36 2015] [info] Routing modules are Router::Routes::One Router::Routes::Three Router::Routes::Two
+[Tue Aug 18 22:07:36 2015] [info] Trying Router::Routes::One
+[Tue Aug 18 22:07:36 2015] [info] Still trying Router::Routes::One
+[Tue Aug 18 22:07:36 2015] [info] Exception: undef
+
+[Tue Aug 18 22:07:36 2015] [info] Router::Routes::One get
+[Tue Aug 18 22:07:36 2015] [info] 	Controller is one
+[Tue Aug 18 22:07:36 2015] [info] 	Action is show_one
+[Tue Aug 18 22:07:36 2015] [info] Router::Routes::One get
+[Tue Aug 18 22:07:36 2015] [info] 	Controller is one
+[Tue Aug 18 22:07:36 2015] [info] 	Action is show_one_by_id
+[Tue Aug 18 22:07:36 2015] [info] Trying Router::Routes::Three
+[Tue Aug 18 22:07:36 2015] [info] Still trying Router::Routes::Three
+[Tue Aug 18 22:07:36 2015] [info] Exception: undef
+
+[Tue Aug 18 22:07:36 2015] [info] Router::Routes::Three get
+[Tue Aug 18 22:07:36 2015] [info] 	Controller is three
+[Tue Aug 18 22:07:36 2015] [info] 	Action is show_three
+[Tue Aug 18 22:07:36 2015] [info] Router::Routes::Three get
+[Tue Aug 18 22:07:36 2015] [info] 	Controller is three
+[Tue Aug 18 22:07:36 2015] [info] 	Action is show_three_by_id
+[Tue Aug 18 22:07:36 2015] [info] Trying Router::Routes::Two
+[Tue Aug 18 22:07:36 2015] [info] Still trying Router::Routes::Two
+[Tue Aug 18 22:07:36 2015] [info] Exception: undef
+
+[Tue Aug 18 22:07:36 2015] [info] Router::Routes::Two get
+[Tue Aug 18 22:07:36 2015] [info] 	Controller is two
+[Tue Aug 18 22:07:36 2015] [info] 	Action is show_two
+[Tue Aug 18 22:07:36 2015] [info] Router::Routes::Two get
+[Tue Aug 18 22:07:36 2015] [info] 	Controller is two
+[Tue Aug 18 22:07:36 2015] [info] 	Action is show_two_by_id
+[Tue Aug 18 22:07:36 2015] [info] Listening at "http://*:3000"
+[Tue Aug 18 22:07:40 2015] [debug] GET "/"
+[Tue Aug 18 22:07:40 2015] [debug] Routing to controller "Router::Controller::Top" and action "welcome"
+[Tue Aug 18 22:07:40 2015] [debug] 200 OK (0.002313s, 432.339/s)
+[Tue Aug 18 22:07:50 2015] [debug] OPTIONS "/"
+[Tue Aug 18 22:07:50 2015] [debug] Routing to controller "Router::Controller::Top" and action "options"
+[Tue Aug 18 22:07:50 2015] [debug] 200 OK (0.001475s, 677.966/s)
