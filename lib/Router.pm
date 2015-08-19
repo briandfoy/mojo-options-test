@@ -11,6 +11,7 @@ sub startup {
 
 	my $config = $self->app->plugin('Config');
 	my $log    = $self->app->log;
+	$log->level('debug');
 
 	$self->routes->get('/')->to(
 		controller => 'top',
@@ -22,8 +23,8 @@ sub startup {
 		action     => 'options',
 		);
 
-	my @routing_modules = find_modules( 'Router::Routes' );
-	$self->app->log->info( "Routing modules are @routing_modules" );
+	my @routing_modules = find_modules( 'Router::Controller' );
+	$self->app->log->debug( "Routing modules are @routing_modules" );
 	
 	foreach my $module ( @routing_modules ) {
 		$self->app->log->debug( "Trying $module" );
@@ -33,7 +34,7 @@ sub startup {
 		$self->app->log->debug( "Still trying $module" );
 
 		my $e = load_class( $module );
-		$self->app->log->info( "Exception: " . dumper( $e ) )
+		$self->app->log->debug( "Exception: " . dumper( $e ) )
 			if defined $e;
 		
 		next unless $module->can( 'get_routes' );
