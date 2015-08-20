@@ -30,17 +30,49 @@ sub get_routes {
 		);
 	}
 
+sub cats {
+	my $self = shift;
+
+	{
+	137  => { name => 'Buster' },
+	39   => { name => 'Mimi' },
+	37   => { name => 'Roscoe' },
+	}
+
+	}
+
 sub show_all_cats {
 	my $self = shift;
-	
-	my $hash = { value => 'three' };
+
+	my $cats = $self->cats;
+	my @results;
+	foreach my $id ( %$cats ) {
+		my $hash = $cats->{$id};
+		$hash->{id} = $id;
+		push @results, $hash;
+		}
+
+	my $hash = { results => \@results };
 	$self->render_json( $hash );
 	}
-	
+
 sub show_cat_by_id {
 	my $self = shift;
 
-	my $hash = { value => 'three', id => 41 };
+	my $want_id = $self->param('id');
+
+	my $cats = $self->cats;
+	my @results;
+	foreach my $id ( %$cats ) {
+		next unless $id == $want_id;
+		my $hash = $cats->{$id};
+		$hash->{id} = $id;
+		push @results, $hash;
+		}
+
+	return $self->reply->not_found unless @results;
+
+	my $hash = { results => \@results };
 	$self->render_json( $hash );
 	}
 
