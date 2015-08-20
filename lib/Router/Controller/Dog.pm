@@ -3,7 +3,7 @@ use Mojo::Base 'Router::Controller::Top';
 
 sub get_routes {
 	my $controller  =  __PACKAGE__ =~ s/.*:://r;
-	
+
 	my @paths = map { $_->{controller} = lc $controller; $_ }
 		(
 			{
@@ -32,7 +32,7 @@ sub get_routes {
 
 sub dogs {
 	my $self = shift;
-	
+
 	{
 	7  => { name => 'Nikki' },
 	13 => { name => 'Rin Tin Tin' },
@@ -49,13 +49,13 @@ sub show_all_dogs {
 	foreach my $id ( %$dogs ) {
 		my $hash = $dogs->{$id};
 		$hash->{id} = $id;
-		push @results, $hash;	
+		push @results, $hash;
 		}
 
 	my $hash = { results => \@results };
 	$self->render_json( $hash );
 	}
-	
+
 sub show_dog_by_id {
 	my $self = shift;
 
@@ -67,7 +67,7 @@ sub show_dog_by_id {
 		next unless $id == $want_id;
 		my $hash = $dogs->{$id};
 		$hash->{id} = $id;
-		push @results, $hash;	
+		push @results, $hash;
 		}
 
 	return $self->reply->not_found unless @results;

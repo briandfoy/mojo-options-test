@@ -14,7 +14,7 @@ sub options {
 
 	my $children = $self->app->routes->children;
 	my %children = map { $_->to_string => 1 } @$children;
-	
+
 	my $hash = { options => \%children };
 
 	$self->render_json( $hash );
@@ -55,7 +55,7 @@ sub _walk {
   _walk($_, $depth, $rows, $verbose) for @{$route->children};
   $depth--;
 }
-	
+
 sub render_json {
 	my( $self, $hash ) = @_;
 
@@ -71,7 +71,7 @@ sub decorate_hash {
 		version   => '0.1',
 		responder => ref $self,
 		};
-		
+
 	$hash;
 	}
 

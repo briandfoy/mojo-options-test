@@ -25,7 +25,7 @@ sub startup {
 
 	my @routing_modules = find_modules( 'Router::Controller' );
 	$self->app->log->debug( "Routing modules are @routing_modules" );
-	
+
 	foreach my $module ( @routing_modules ) {
 		$self->app->log->debug( "Trying $module" );
 		next unless exists
@@ -36,7 +36,7 @@ sub startup {
 		my $e = load_class( $module );
 		$self->app->log->debug( "Exception: " . dumper( $e ) )
 			if defined $e;
-		
+
 		next unless $module->can( 'get_routes' );
 
 		foreach my $route ( $module->get_routes ) {

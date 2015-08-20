@@ -3,7 +3,7 @@ use Mojo::Base 'Router::Controller::Top';
 
 sub get_routes {
 	my $controller  =  __PACKAGE__ =~ s/.*:://r;
-	
+
 	my @paths = map { $_->{controller} = lc $controller; $_ }
 		(
 			{
