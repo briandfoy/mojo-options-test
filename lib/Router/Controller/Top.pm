@@ -8,6 +8,7 @@ sub welcome {
 	$self->render_json( $hash_ref );
 	}
 
+# http://zacstewart.com/2012/04/14/http-options-method.html
 sub options {
 	my $self = shift;
 
